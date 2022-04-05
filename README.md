@@ -2,7 +2,7 @@
 It's a tic-tac-toe game using react hooks.
 ### Steps to use this app
 - Step.1 Clone this app into your repo
-- Step.2 Navigate inside the folder t-c-tac-toe
+- Step.2 Navigate inside the folder tic-tac-toe
 - Step.3 run npm install
 - Step.4 run npm start
 
